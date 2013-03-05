@@ -1,5 +1,5 @@
 void setup() {
-  //so heres the code that will get you r robot ready to defat all others
+  //so heres the code that will get your robot ready to defeat all others
 
 }
 
